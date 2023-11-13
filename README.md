@@ -2,7 +2,7 @@
 Fecha: 12/11/2023
 Versión: 1.2
 Autor: Mauricio Sosa Giri
-## Introducción
+## 2. Introducción
 La ciberseguridad es un campo de gran relevancia en la actualidad, especialmente en el ámbito de la seguridad informática y la protección de la información confidencial. En este documento, nos enfocaremos en los diferentes aspectos de la ciberseguridad, centrándonos específicamente en el trabajo en un equipo de seguridad ofensiva (Red Team).
 Desde la prevención de fraudes y estafas hasta la protección de la privacidad personal y la propiedad intelectual, la ciberseguridad desempeña un papel crucial en nuestra sociedad digitalizada. En este contexto, es fundamental comprender las mejores prácticas y herramientas utilizadas por los profesionales de la ciberseguridad para garantizar la seguridad de los sistemas y redes.
 A lo largo de este documento, exploraremos técnicas avanzadas de seguridad, como la identificación y mitigación de vulnerabilidades, el análisis de malware, la detección de intrusiones y la respuesta a incidentes. También abordaremos conceptos clave como la gestión de riesgos, la criptografía y la seguridad en aplicaciones web.
