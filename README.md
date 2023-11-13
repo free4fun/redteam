@@ -529,7 +529,7 @@ Una competencia en línea que permite a estudiantes y profesionales probar sus h
 * Participar en la competencia de la Liga Nacional de Ciberseguridad para poner a prueba tus habilidades en un entorno competitivo.
 * Utilizar los recursos de la NCL para aprender sobre la seguridad de sistemas y redes.
 ### 12.19. Cybersecurity Challenges by Raytheon
-Descripción: Una serie de retos y ejercicios para aprender sobre seguridad cibernética.
+Una serie de retos y ejercicios para aprender sobre seguridad cibernética.
 * Completar los desafíos de seguridad propuestos por Raytheon para mejorar tus habilidades en ciberseguridad.
 * Utilizar los ejercicios de Raytheon para aprender sobre la seguridad de sistemas y redes.
 ### 12.20. Hack.me
